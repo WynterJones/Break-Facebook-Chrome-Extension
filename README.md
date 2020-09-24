@@ -2,7 +2,7 @@
 
 ### How to use
 
-Step #1 - Download this code as a .zip file. 
+Step #1 - Download this code as a .zip file and extract the files.
 
 Step #2 - Go to "chrome://extensions" in your Chromium browser.
 
